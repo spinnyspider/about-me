@@ -1,0 +1,20 @@
+body {
+    padding: 1em 7em;
+}
+
+.intro {
+    border: 1px solid red;    
+}
+
+.intro * {
+    border: 1px solid red;
+    margin: 0;
+}
+
+.intro ul {
+    padding-inline-start: 1.5em;
+}
+
+.intro h1 {
+    font-family: Lexend Deca;
+}
